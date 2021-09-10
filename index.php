@@ -17,7 +17,7 @@ if(isset($_GET['file'])){
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>AriSmrd - Portfolio</title>
+        <title>Ari Sumardi - Portfolio</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/icon.png" />
         <!-- Font Awesome icons (free version)-->
@@ -28,7 +28,7 @@ if(isset($_GET['file'])){
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="assets/css/styles.css" rel="stylesheet" />
     </head>
-    <body id="page-top">
+    <body id="home">
         <!-- Navigation-->
             <?php include "header.php"; ?>
         <!-- Portfolio Section-->
@@ -49,7 +49,7 @@ if(isset($_GET['file'])){
         </footer>
         <!-- Copyright Section-->
         <div class="copyright py-4 text-center text-white">
-            <div class="container"><small>Copyright &copy; AriSmrd 2021 .   Theme created by
+            <div class="container"><small>Copyright &copy; Ari Sumardi 2021 .   Theme created by
                 <a href="http://startbootstrap.com">Start Bootstrap</a></small></div>
         </div>
         <!-- Portfolio Modals-->
@@ -91,7 +91,7 @@ if(isset($_GET['file'])){
                                         Close
                                     </a> 
                                     &nbsp;                                   
-                                    <a class="btn btn-md btn-primary " href="http://potensi.arismrd.my.id" target="_blank">
+                                    <a class="btn btn-md btn-primary " href="https://potensi.arisumardi.my.id" target="_blank">
                                         <i class="fas fa-play fa-fw"></i>
                                         Live Demo
                                     </a>
@@ -140,7 +140,7 @@ if(isset($_GET['file'])){
                                         Close
                                     </a> 
                                     &nbsp;                                   
-                                    <a class="btn btn-md btn-primary" href="http://pengaduan.arismrd.my.id" disabled target="_blank">
+                                    <a class="btn btn-md btn-primary" href="https://pengaduan.arisumardi.my.id" disabled target="_blank">
                                         <i class="fas fa-play fa-fw"></i>
                                         Live Demo
                                     </a>
@@ -187,7 +187,7 @@ if(isset($_GET['file'])){
                                         Close
                                     </a> 
                                     &nbsp;                                   
-                                    <a class="btn btn-md btn-primary" href="http://buentar.arismrd.my.id" target="_blank">
+                                    <a class="btn btn-md btn-primary" href="https://buentar.arisumardi.my.id" target="_blank">
                                         <i class="fas fa-play fa-fw"></i>
                                         Live Demo
                                     </a>
@@ -229,7 +229,7 @@ if(isset($_GET['file'])){
                                         Close
                                     </a> 
                                     &nbsp;                                   
-                                    <a class="btn btn-md btn-primary" href="https://tokogantarplastik.my.id" target="_blank">
+                                    <a class="btn btn-md btn-primary" href="https://gantar.arisumardi.my.id" target="_blank">
                                         <i class="fas fa-play fa-fw"></i>
                                         Live Demo
                                     </a>
@@ -276,7 +276,7 @@ if(isset($_GET['file'])){
                                         Close
                                     </a> 
                                     &nbsp;                                   
-                                    <a class="btn btn-md btn-primary" href="http://inventory.arismrd.my.id" target="_blank">
+                                    <a class="btn btn-md btn-primary" href="https://inventory.arisumardi.my.id" target="_blank">
                                         <i class="fas fa-play fa-fw"></i>
                                         Live Demo
                                     </a>
@@ -326,7 +326,7 @@ if(isset($_GET['file'])){
                                         Close
                                     </a> 
                                     &nbsp;                                   
-                                    <a class="btn btn-md btn-primary" href="http://masjid.arismrd.my.id/administrator.php" target="_blank">
+                                    <a class="btn btn-md btn-primary" href="https://masjid.arisumardi.my.id/administrator.php" target="_blank">
                                         <i class="fas fa-play fa-fw"></i>
                                         Live Demo
                                     </a>
@@ -376,7 +376,7 @@ if(isset($_GET['file'])){
                                         Close
                                     </a> 
                                     &nbsp;                                   
-                                    <a class="btn btn-md btn-primary" href="https://cairo.arismrd.my.id" target="_blank">
+                                    <a class="btn btn-md btn-primary" href="" target="_blank">
                                         <i class="fas fa-eye fa-fw"></i>
                                         Demo
                                     </a>
@@ -427,7 +427,7 @@ if(isset($_GET['file'])){
                                         Close
                                     </a> 
                                     &nbsp;                                   
-                                    <a class="btn btn-md btn-primary" href="https://cairo.arismrd.my.id" target="_blank">
+                                    <a class="btn btn-md btn-primary" href="" target="_blank">
                                         <i class="fas fa-eye fa-fw"></i>
                                         Demo
                                     </a>
