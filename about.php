@@ -19,7 +19,7 @@
                 </div>
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
-                    <a class="btn btn-xl btn-outline-light" href="index.php?file=cv.pdf">
+                    <a class="btn btn-xl btn-outline-light" href="downloadcv.php?file=cv" target="_blank"> 
                         <i class="fas fa-download me-2"></i>
                         Download CV 
                     </a>
