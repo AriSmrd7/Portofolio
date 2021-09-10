@@ -4,7 +4,7 @@
                     <div class="col-lg-6 mb-5 mb-lg-0">
                         <h4 class="text-uppercase mb-4">ALAMAT SAYA</h4>
                         <p class="lead mb-0">
-                            Jl. Desa Linggajaya No. 31, Cisitu
+                            Cijeungjing RT/RW 002/002, Desa Linggajaya, Cisitu
                             <br />
                             Kabupaten Sumedang, Jawa Barat 45371
                         </p>

@@ -91,7 +91,7 @@ if(isset($_GET['file'])){
                                         Close
                                     </a> 
                                     &nbsp;                                   
-                                    <a class="btn btn-md btn-primary" href="https://potensi.arismrd.my.id" target="_blank">
+                                    <a class="btn btn-md btn-primary " href="http://potensi.arismrd.my.id" target="_blank">
                                         <i class="fas fa-play fa-fw"></i>
                                         Live Demo
                                     </a>
@@ -140,7 +140,7 @@ if(isset($_GET['file'])){
                                         Close
                                     </a> 
                                     &nbsp;                                   
-                                    <a class="btn btn-md btn-primary" href="https://pengaduan.arismrd.my.id" target="_blank">
+                                    <a class="btn btn-md btn-primary" href="http://pengaduan.arismrd.my.id" disabled target="_blank">
                                         <i class="fas fa-play fa-fw"></i>
                                         Live Demo
                                     </a>
@@ -187,7 +187,7 @@ if(isset($_GET['file'])){
                                         Close
                                     </a> 
                                     &nbsp;                                   
-                                    <a class="btn btn-md btn-primary" href="https://buentar.arismrd.my.id" target="_blank">
+                                    <a class="btn btn-md btn-primary" href="http://buentar.arismrd.my.id" target="_blank">
                                         <i class="fas fa-play fa-fw"></i>
                                         Live Demo
                                     </a>
@@ -229,7 +229,7 @@ if(isset($_GET['file'])){
                                         Close
                                     </a> 
                                     &nbsp;                                   
-                                    <a class="btn btn-md btn-primary" href="https://gantar.arismrd.my.id" target="_blank">
+                                    <a class="btn btn-md btn-primary" href="https://tokogantarplastik.my.id" target="_blank">
                                         <i class="fas fa-play fa-fw"></i>
                                         Live Demo
                                     </a>
@@ -276,7 +276,7 @@ if(isset($_GET['file'])){
                                         Close
                                     </a> 
                                     &nbsp;                                   
-                                    <a class="btn btn-md btn-primary" href="https://inventory.arismrd.my.id" target="_blank">
+                                    <a class="btn btn-md btn-primary" href="http://inventory.arismrd.my.id" target="_blank">
                                         <i class="fas fa-play fa-fw"></i>
                                         Live Demo
                                     </a>
@@ -326,7 +326,7 @@ if(isset($_GET['file'])){
                                         Close
                                     </a> 
                                     &nbsp;                                   
-                                    <a class="btn btn-md btn-primary" href="https://masjid.arismrd.my.id" target="_blank">
+                                    <a class="btn btn-md btn-primary" href="http://masjid.arismrd.my.id/administrator.php" target="_blank">
                                         <i class="fas fa-play fa-fw"></i>
                                         Live Demo
                                     </a>

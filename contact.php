@@ -11,13 +11,13 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <a class="btn btn-primary mb-3" target="_blank" href="https://wa.me/6285863727216">
-                            <i class="fab fa-7x fa-whatsapp"></i>
+                            <i class="fab fa-4x fa-whatsapp"></i>
                         </a>
                         <a class="btn btn-primary mb-3" target="_blank" href="https://t.me/AriSmrd7">
-                            <i class="fab fa-7x fa-telegram"></i>
+                            <i class="fab fa-4x fa-telegram"></i>
                         </a>
                         <a class="btn btn-primary mb-3" target="_blank" href="tel:+628563727216">
-                            <i class="fas fa-7x fa-phone"></i>
+                            <i class="fas fa-4x fa-phone"></i>
                         </a>
                     </div>
                 </div>
