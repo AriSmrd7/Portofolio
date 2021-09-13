@@ -9,7 +9,7 @@
                 </div>
                 <!-- website -->
                 <div class="row justify-content-center">
-                    <h3 class="text-center text-uppercase text-secondary mb-0">Website</h3>
+                    <h3 class="text-center text-uppercase text-secondary mb-0">Projects</h3>
                     <div class="divider-custom">
                         <div class="divider-custom-line"></div>
                     </div>
@@ -86,14 +86,9 @@
                         </div>
                     </div>
                 </div>
-                <br>
                 <!-- mobile app -->
                 <br><br>
                 <div class="row justify-content-center">
-                    <h3 class="text-center text-uppercase text-secondary mb-0">Mobile App</h3>
-                    <div class="divider-custom">
-                        <div class="divider-custom-line"></div>
-                    </div>
                     <!-- Portfolio Item 1-->
                     <div class="col-md-6 col-lg-4 mb-5">
                         <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#arhome">
